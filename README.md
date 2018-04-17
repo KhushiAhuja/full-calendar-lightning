@@ -4,6 +4,11 @@ Sample [Salesforce Lightning Components](https://developer.salesforce.com/docs/a
 
 ![full-calendar-lightning](full-calendar-lightning.png)
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## Installation
 
 - Enable shared activities in the target org (`Setup > Activity Settings > Allow Users to Relate Multiple Contacts to Tasks and Events`)
